@@ -1,0 +1,12 @@
+cap_name=page_title&&cap_value=Головна сторінка
+cap_name=ID&&cap_value=Ідентифікатор
+cap_name=NAME&&cap_value=Назва
+cap_name=DESCRIPTION&&cap_value=Опис
+cap_name=LOGIN_NOT_ENTERED&&cap_value=Не введено логін або пароль
+cap_name=LOGIN_INCORRECT&&cap_value=Неправильний логін або пароль
+cap_name=page_title&&cap_value=Вхід.
+cap_name=PAGE_TITLE&&cap_value=Екстранет.
+cap_name=web_site&&cap_value=На сайт
+cap_name=logout&&cap_value=Вийти
+cap_name=page_title&&cap_value=Управління рахунками.
+cap_name=DELETE&&cap_value=вилучити
